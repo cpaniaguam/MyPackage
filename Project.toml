@@ -1,0 +1,7 @@
+name = "MyPackage"
+uuid = "e06b4af7-e524-488b-ba49-671b39b8dff3"
+authors = ["Carlos Paniagua <cpaniaguam@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
